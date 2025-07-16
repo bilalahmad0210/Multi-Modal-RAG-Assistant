@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+env.bak/
+
+# Environment variables
+.env
+.env.*
+
+# Logs and runtime files
+*.log
+*.pid
+*.swp
+*.swo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode / IDE config
+.vscode/
+.idea/
+
+# Gradio uploads and temp cache
+gradio_cached_examples/
+gradio_cached_data/
+__results__/
+*.gradio/
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Pip dependency logs
+pip-log.txt
+
+# Model and download folders (optional)
+models/
+downloads/
+
+# Coverage and test reports
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+.cache
+nosetests.xml
+test-results.xml
+
+# FAISS or large indexes (optional)
+*.faiss
+*.pkl
+index/
+text_index/
+image_index/
+video_index/
