@@ -38,7 +38,7 @@ All powered by local models (no internet or API keys needed).
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/multi-modal-rag-assistant.git
+git clone https://github.com/bilalahmad0210/multi-modal-rag-assistant.git
 cd multi-modal-rag-assistant
 ```
 
